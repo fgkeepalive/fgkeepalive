@@ -10,8 +10,8 @@
 
 ### 联系方式,请注明来意：
 
-![weixin](wx.jpg)
+![weixin](https://github.com/fgkeepalive/AndroidKeepAlive/blob/main/wx.jpg)
 
 > 邮箱：fgkeepalive@gmail.com
-> 
+> 微信号:wandfix
 > telegram(需要魔法)：https://t.me/androidkeepalive
